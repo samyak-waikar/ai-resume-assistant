@@ -29,7 +29,7 @@ An AI-powered web application that allows users to upload a resume and ask quest
 
 ## 🛠️ Setup Instructions
 
-### Backend
+
 ```bash
 cd backend
 python -m venv venv
